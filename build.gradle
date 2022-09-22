@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     implementation("net.dv8tion:JDA:${project.jda_version}")
+    implementation("com.google.code.gson:gson:${project.gson_version}")
 }

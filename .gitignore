@@ -23,3 +23,7 @@ classes/
 bin/
 .classpath
 .project
+
+# run stuff
+
+run/
